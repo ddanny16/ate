@@ -1,0 +1,38 @@
+* body{
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding :0;
+   
+}
+main{
+   margin: auto auto;
+   justify-content: center;
+   /* text-align: center; */
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+
+    /* width: 80%; */
+
+}
+main{
+    /* background-color: black; */
+    width: 90%;
+}
+.container-fluid  h2 h3{
+
+    color: darkgreen;
+    background-color: black;
+}
+section{
+    width: 40%;
+}
+.fluid h3{
+    color: red;
+    position: relative;
+}
+p{
+    color: blue;
+}
