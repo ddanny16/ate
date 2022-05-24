@@ -1,0 +1,33 @@
+body{
+    background-color: #eee;
+}
+.container-fluid{
+    width: 040%;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+.container-fluid h2{
+    color: red;
+    width: 23rem;
+    position: relative;
+}
+.container-fluid h2::after{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 12px;
+    width: 67px;
+    height: 2px;
+    background-color: red;
+}
+.accordion{
+    width: 100%;
+    padding: 0 5px;
+    border: 2px solid #6db5ff;
+    cursor: pointer;
+    border-radius: 50px;
+    display: flex;
+    margin: 10px 0;
+    align-items: center;
+}
