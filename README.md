@@ -8,4 +8,4 @@ readme
 css
 .
 java script
-faqs
+fa
