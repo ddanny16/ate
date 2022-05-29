@@ -8,4 +8,3 @@ readme
 css
 .
 java script
-open up the safed
